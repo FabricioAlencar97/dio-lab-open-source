@@ -1,5 +1,5 @@
 # Fabrício Alencar
-Ola, sou Fabrício e estou buscando conhecimentos na area de programação
+Ola, sou Fabrício e estou buscando conhecimentos na area de programação,
 Sou tecnico mecâtronico 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabricioAlencar97)
